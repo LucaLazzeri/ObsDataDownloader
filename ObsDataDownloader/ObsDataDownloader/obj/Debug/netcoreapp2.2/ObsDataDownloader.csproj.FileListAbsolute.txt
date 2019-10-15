@@ -1,0 +1,10 @@
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/bin/Debug/netcoreapp2.2/ObsDataDownloader.deps.json
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/bin/Debug/netcoreapp2.2/ObsDataDownloader.runtimeconfig.json
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/bin/Debug/netcoreapp2.2/ObsDataDownloader.runtimeconfig.dev.json
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/bin/Debug/netcoreapp2.2/ObsDataDownloader.dll
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/bin/Debug/netcoreapp2.2/ObsDataDownloader.pdb
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/obj/Debug/netcoreapp2.2/ObsDataDownloader.csprojAssemblyReference.cache
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/obj/Debug/netcoreapp2.2/ObsDataDownloader.AssemblyInfoInputs.cache
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/obj/Debug/netcoreapp2.2/ObsDataDownloader.AssemblyInfo.cs
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/obj/Debug/netcoreapp2.2/ObsDataDownloader.dll
+/home/luca/Dokumente/Project/ObsDataDownloader/ObsDataDownloader/ObsDataDownloader/obj/Debug/netcoreapp2.2/ObsDataDownloader.pdb
